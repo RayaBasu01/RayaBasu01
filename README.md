@@ -1,7 +1,7 @@
-![MasterHead](https://newrelic.com/sites/default/files/2021-04/good-programmer-banner-final.jpg)
+![MasterHead](https://camo.githubusercontent.com/b4b9424b0f460f15a9cc8d1ff8a4b867e44a893723c34ee694eb221ae14daa5c/68747470733a2f2f7777772e7072616d756b686469676974616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)
 <h1 align="center">Hi 👋, I'm Raya Basu</h1>
 <h3 align="center">A passionate WebDeveloper from India exploring new developing features daily.</h3>
-<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png?compress=1&resize=768x576&vertical=top">
+<img align="right" alt="coding" width="300" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif">
 
 - 🔭 I’m currently working on **Frontend Development**
 
