@@ -27,4 +27,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RayaBasu01&show_icons=true&locale=en&layout=compact" alt="RayaBasu01" /></p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RayaBasu01&theme=dracula)
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RayaBasu01&show_icons=true&locale=en" alt="RayaBasu01" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RayaBasu01&" alt="RayaBasu01" /></p>
