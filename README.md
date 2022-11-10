@@ -27,15 +27,16 @@
 
 ## GitHub Stats
 <table>
-  <tr>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RayaBasu01&show_icons=true&locale=en&layout=compact" alt="RayaBasu01" /></p>
-    </tr>
+  
   <tr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RayaBasu01&show_icons=true&locale=en" alt="RayaBasu01" /></p>
  </tr>
    <tr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RayaBasu01&" alt="RayaBasu01" /></p>
   </tr>
+  <tr>
+  <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=RayaBasu01&show_icons=true&locale=en&layout=compact" alt="RayaBasu01" /></p>
+    </tr>
 </table>
  
 ## Contribution Graph 
