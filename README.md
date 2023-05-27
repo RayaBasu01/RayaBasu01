@@ -10,22 +10,76 @@
 
 - 🌱 I’m learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://rayabasu.netlify.app/](https://rayabasu.netlify.app/)
+- 👨‍💻 All of my projects are available at  <a href="https://github.com/RayaBasu01">
+  <img alt=" GitHub" length="25px" width="25px" src="https://user-images.githubusercontent.com/62868878/222075203-87fe55ce-e761-44dc-a3ec-517586c9ab8f.png" />
 
 - 📫 How to reach me **raya.basu.01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/basuraya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="basuraya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/raya-basu-3144981b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raya-basu-3144981b4" height="30" width="40" /></a>
-<a href="https://fb.com/raya basu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raya basu" height="30" width="40" /></a>
-<a href="https://instagram.com/soul_loves_peace_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soul_loves_peace_01" height="30" width="40" /></a>
+<a href="https://twitter.com/basuraya" target="blank"><img align="center" src="https://user-images.githubusercontent.com/62868878/222074382-6f224fd2-0217-4350-9d7b-a6e271d3afb4.png" alt="basuraya" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/raya-basu-3144981b4" target="blank"><img align="center" src="https://user-images.githubusercontent.com/62868878/222074633-8c463a00-8029-4739-9483-15fa6e634611.png" alt="raya-basu-3144981b4" height="40" width="40" /></a>
+<a href="https://fb.com/raya basu" target="blank"><img align="center" src="https://user-images.githubusercontent.com/62868878/222074709-0653b486-9644-419a-b339-bf0b066d181f.png" alt="raya basu" height="40" width="40" /></a>
+<a href="https://instagram.com/soul_loves_peace_01" target="blank"><img align="center" src="https://user-images.githubusercontent.com/62868878/222075461-70e8656e-433f-4932-bd0e-372520779b1d.png" alt="soul_loves_peace_01" height="40" width="40" /></a>
+<a href="mailto:raya.basu.01@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/62868878/222075208-0e0cd347-a89a-493d-9395-490b146bcaf1.png"" alt="soul_loves_peace_01" height="40" width="40" /></a>
 </p>
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 💻 Languages and Tools:
+
+<table width="100%">  
+<tr align="center">  
+<td width="545"><strong>LANGUAGES</strong></td>  
+<td width="466">
+<!-- 	<img width="36px"src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png"/> -->
+	<img width="36px" src="https://img.icons8.com/color/96/000000/c-programming.png"/>
+    <img width="36px"  src="https://img.icons8.com/color/128/000000/java-coffee-cup-logo.png"/>
+	<img alt="JavaScript" width="36px" src="https://user-images.githubusercontent.com/62868878/222075815-eda2bc2e-5053-4763-a521-49bbff122649.png" />
+	<img width="36px" src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+<!--     <img width="36px" src="https://img.icons8.com/color/48/000000/kotlin.png"/> -->
+
+	
+</td>  
+</tr>  
+<tr align="center">  
+<td width="50%"><strong>FRONTEND</strong></td>  
+<td width="50%">
+	 <img alt="HTML5" width="36px" src="https://user-images.githubusercontent.com/62868878/222076572-d851b108-17a5-4ab3-95d8-75cf1fbdaf78.png" />
+	<img alt="CSS3" width="36px" src="https://user-images.githubusercontent.com/62868878/222076427-7c7428c8-0354-4bcc-b2f4-5d5910d8eea3.png" />
+    <img width="36px" src="https://img.icons8.com/color/96/000000/bootstrap.png"/>
+	<img alt="JavaScript" width="36px" src="https://user-images.githubusercontent.com/62868878/222075815-eda2bc2e-5053-4763-a521-49bbff122649.png" />
+</td>  
+</tr>  
+<tr align="center">  
+<td width="50%"><strong>BACKEND</strong></td>  
+<td width="50%">
+	<img alt="Node.js" width="36px" src="https://user-images.githubusercontent.com/62868878/222077981-2d22be91-3ba4-42f1-9136-d9c02de5fc64.png" />
+	<img alt="MongoDB" width="36px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
+	<img width="36px" src="https://img.icons8.com/nolan/64/mysql.png"/>
+    <img width="36px" src="https://img.icons8.com/color/48/000000/heroku.png"/>
+</td>  
+</tr>    
+<tr align="center">  
+<td width="50%"><strong>VERSION CONTROL</strong></td>  
+<td width="50%">
+   <img alt="Git" width="36px" src="https://img.icons8.com/color/64/000000/git.png"/>
+	<img alt="Terminal" width="36px" src="https://user-images.githubusercontent.com/62868878/222078705-45b61c9f-bf97-4c57-89a7-649e8f6678d3.png" />
+    <img alt="GitHub" width="36px" src="https://img.icons8.com/bubbles/50/000000/github.png"/>
+</td>  
+</tr>  
+<tr align="center">  
+<td width="50%"><strong>TOOLS</strong></td>  
+<td width="50%">
+	<img alt="Visual Studio Code" width="36px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+    <img width="36px" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+	<img width="36px" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
+ 	<img width="36px" src="https://img.icons8.com/color/48/fa314a/ms-one-note.png"/>
+</td>  
+</tr> 
+</table>
+<br/>
+<br/>
 
 
 ## GitHub Stats
@@ -47,8 +101,4 @@
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RayaBasu01&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
    </tr> 
-   <tr>
-      <td><img src="https://activity-graph.herokuapp.com/graph?username=RayaBasu01&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
-  </td>
-  </tr>
 </table>
