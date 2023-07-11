@@ -49,6 +49,8 @@
 	<img alt="CSS3" width="36px" src="https://user-images.githubusercontent.com/62868878/222076427-7c7428c8-0354-4bcc-b2f4-5d5910d8eea3.png" />
     <img width="36px" src="https://img.icons8.com/color/96/000000/bootstrap.png"/>
 	<img alt="JavaScript" width="36px" src="https://user-images.githubusercontent.com/62868878/222075815-eda2bc2e-5053-4763-a521-49bbff122649.png" />
+	<img alt= "React.Js"width="36px" src="https://user-images.githubusercontent.com/62868878/222077353-eb570c36-a97a-4e21-8372-3febcad0e5d5.png" />
+	
 </td>  
 </tr>  
 <tr align="center">  
